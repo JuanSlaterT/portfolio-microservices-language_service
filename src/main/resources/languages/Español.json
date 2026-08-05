@@ -1,0 +1,8 @@
+{
+    "name": "Español",
+    "code": "es",
+    "translations": {
+      "welcome": "Bienvenido",
+      "goodbye": "Adiós"
+    }
+  }
