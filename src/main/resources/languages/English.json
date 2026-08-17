@@ -3,6 +3,7 @@
     "code": "en",
     "translations": {
       "welcome": "Welcome",
-      "goodbye": "Goodbye"
+      "goodbye": "Goodbye",
+      "owner": "HotDoctor" 
     }
   }
